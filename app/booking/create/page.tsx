@@ -1,0 +1,1 @@
+<p>Booking create page</p>
